@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\bin\Debug\net6.0\oldTaskPractice.exe
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\bin\Debug\net6.0\oldTaskPractice.deps.json
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\bin\Debug\net6.0\oldTaskPractice.runtimeconfig.json
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\bin\Debug\net6.0\oldTaskPractice.dll
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\bin\Debug\net6.0\oldTaskPractice.pdb
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\oldTaskPractice.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\oldTaskPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\oldTaskPractice.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\oldTaskPractice.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\oldTaskPractice.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\oldTaskPractice.dll
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\refint\oldTaskPractice.dll
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\oldTaskPractice.pdb
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\oldTaskPractice.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Methods\oldTaskPractice\oldTaskPractice\obj\Debug\net6.0\ref\oldTaskPractice.dll
